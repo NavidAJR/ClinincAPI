@@ -1,0 +1,14 @@
+D:\Projects\Programming\C#\TechsNovel\ClinicWebAPI\Clinic.Domain\bin\Debug\net5.0\Clinic.Domain.deps.json
+D:\Projects\Programming\C#\TechsNovel\ClinicWebAPI\Clinic.Domain\bin\Debug\net5.0\Clinic.Domain.runtimeconfig.json
+D:\Projects\Programming\C#\TechsNovel\ClinicWebAPI\Clinic.Domain\bin\Debug\net5.0\Clinic.Domain.runtimeconfig.dev.json
+D:\Projects\Programming\C#\TechsNovel\ClinicWebAPI\Clinic.Domain\bin\Debug\net5.0\Clinic.Domain.dll
+D:\Projects\Programming\C#\TechsNovel\ClinicWebAPI\Clinic.Domain\bin\Debug\net5.0\ref\Clinic.Domain.dll
+D:\Projects\Programming\C#\TechsNovel\ClinicWebAPI\Clinic.Domain\bin\Debug\net5.0\Clinic.Domain.pdb
+D:\Projects\Programming\C#\TechsNovel\ClinicWebAPI\Clinic.Domain\obj\Debug\net5.0\Clinic.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Programming\C#\TechsNovel\ClinicWebAPI\Clinic.Domain\obj\Debug\net5.0\Clinic.Domain.AssemblyInfoInputs.cache
+D:\Projects\Programming\C#\TechsNovel\ClinicWebAPI\Clinic.Domain\obj\Debug\net5.0\Clinic.Domain.AssemblyInfo.cs
+D:\Projects\Programming\C#\TechsNovel\ClinicWebAPI\Clinic.Domain\obj\Debug\net5.0\Clinic.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\C#\TechsNovel\ClinicWebAPI\Clinic.Domain\obj\Debug\net5.0\Clinic.Domain.dll
+D:\Projects\Programming\C#\TechsNovel\ClinicWebAPI\Clinic.Domain\obj\Debug\net5.0\ref\Clinic.Domain.dll
+D:\Projects\Programming\C#\TechsNovel\ClinicWebAPI\Clinic.Domain\obj\Debug\net5.0\Clinic.Domain.pdb
+D:\Projects\Programming\C#\TechsNovel\ClinicWebAPI\Clinic.Domain\obj\Debug\net5.0\Clinic.Domain.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Projects\Programming\C#\TechsNovel\ClinicWebAPI\Clinic.Core\bin\Debug\net5.0\Clinic.Core.deps.json
+D:\Projects\Programming\C#\TechsNovel\ClinicWebAPI\Clinic.Core\bin\Debug\net5.0\Clinic.Core.dll
+D:\Projects\Programming\C#\TechsNovel\ClinicWebAPI\Clinic.Core\bin\Debug\net5.0\ref\Clinic.Core.dll
+D:\Projects\Programming\C#\TechsNovel\ClinicWebAPI\Clinic.Core\bin\Debug\net5.0\Clinic.Core.pdb
+D:\Projects\Programming\C#\TechsNovel\ClinicWebAPI\Clinic.Core\bin\Debug\net5.0\Clinic.Domain.dll
+D:\Projects\Programming\C#\TechsNovel\ClinicWebAPI\Clinic.Core\bin\Debug\net5.0\Clinic.Domain.pdb
+D:\Projects\Programming\C#\TechsNovel\ClinicWebAPI\Clinic.Core\obj\Debug\net5.0\Clinic.Core.csproj.AssemblyReference.cache
+D:\Projects\Programming\C#\TechsNovel\ClinicWebAPI\Clinic.Core\obj\Debug\net5.0\Clinic.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Programming\C#\TechsNovel\ClinicWebAPI\Clinic.Core\obj\Debug\net5.0\Clinic.Core.AssemblyInfoInputs.cache
+D:\Projects\Programming\C#\TechsNovel\ClinicWebAPI\Clinic.Core\obj\Debug\net5.0\Clinic.Core.AssemblyInfo.cs
+D:\Projects\Programming\C#\TechsNovel\ClinicWebAPI\Clinic.Core\obj\Debug\net5.0\Clinic.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\C#\TechsNovel\ClinicWebAPI\Clinic.Core\obj\Debug\net5.0\Clinic.Core.csproj.CopyComplete
+D:\Projects\Programming\C#\TechsNovel\ClinicWebAPI\Clinic.Core\obj\Debug\net5.0\Clinic.Core.dll
+D:\Projects\Programming\C#\TechsNovel\ClinicWebAPI\Clinic.Core\obj\Debug\net5.0\ref\Clinic.Core.dll
+D:\Projects\Programming\C#\TechsNovel\ClinicWebAPI\Clinic.Core\obj\Debug\net5.0\Clinic.Core.pdb

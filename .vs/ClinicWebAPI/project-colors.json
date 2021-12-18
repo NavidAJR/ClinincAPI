@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "549ffb42-405a-44c8-8bc9-a7719a4f2189": {
+      "ProjectGuid": "549ffb42-405a-44c8-8bc9-a7719a4f2189",
+      "DisplayName": "Clinic.API",
+      "ColorIndex": 0
+    },
+    "fb588f1a-cff2-4487-ab04-3d573b53d59e": {
+      "ProjectGuid": "fb588f1a-cff2-4487-ab04-3d573b53d59e",
+      "DisplayName": "Clinic.Domain",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "42a24065-6d6e-4e59-85ec-0982eb56973b": {
+      "ProjectGuid": "42a24065-6d6e-4e59-85ec-0982eb56973b",
+      "DisplayName": "Clinic.Core",
+      "ColorIndex": 2
+    },
+    "77b013c2-f6a7-4d45-a86e-14f2ceb75097": {
+      "ProjectGuid": "77b013c2-f6a7-4d45-a86e-14f2ceb75097",
+      "DisplayName": "Clinic.WebClient",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
