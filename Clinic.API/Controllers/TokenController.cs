@@ -18,13 +18,11 @@ namespace Clinic.API.Controllers
     public class TokenController : Controller
     {
         private readonly UserManager<User> _userManager;
-        private readonly ClinicDbContext _context;
         private readonly ITokenRepository _tokenRepository;
 
-        public TokenController(UserManager<User> userManager, ClinicDbContext context, ITokenRepository tokenRepository)
+        public TokenController(UserManager<User> userManager, ITokenRepository tokenRepository)
         {
             _userManager = userManager;
-            _context = context;
             _tokenRepository = tokenRepository;
         }
 
@@ -68,12 +66,16 @@ namespace Clinic.API.Controllers
                 new Claim(JwtRegisteredClaimNames.Exp, new DateTimeOffset(DateTime.Now.AddDays(1)).ToUnixTimeSeconds().ToString())
             };
 
+            var allClaims = User.Claims.ToList();
+
+            claims.ForEach(c=> allClaims.Add(c));
+
             var token = new JwtSecurityToken(
                 new JwtHeader(
                     new SigningCredentials(
                         new SymmetricSecurityKey(Encoding.UTF8.GetBytes("MySecretKeyIsSecretSoDoNotTellToAnyone")),
                         SecurityAlgorithms.HmacSha256)),
-                        new JwtPayload(claims));
+                        new JwtPayload(allClaims));
 
             var output = new
             {
